@@ -11,6 +11,8 @@ float circleWave = circle * sign;
 
 From the GameDevBox video on how this shader works. The video walks through the HLSL version line by line, and the Shader Graph version is here as an extra.
 
+Watch Tutorial : [Circle Wave Ribbon](https://youtu.be/n40bZQLwLYc)
+
 ## Install
 
 Tested in Unity 6000.6 with URP 17.6.
